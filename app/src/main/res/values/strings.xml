@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MaterilButtonExample</string>
+    <string name="elevated_button">elevated Button</string>
 </resources>
